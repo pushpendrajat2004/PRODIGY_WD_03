@@ -1,4 +1,8 @@
-# React + Vite
+# StopWatch Project:
+
+this is my stopwatch project made with React.js which shows watch time in mili-Seconds operated with buttons Start, Stop, Reset
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
